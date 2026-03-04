@@ -1,0 +1,5 @@
+{
+  "name": "Paulista Code Editor",
+  "description": "Um editor de código que traduz gírias de São Paulo para HTML em tempo real.",
+  "requestFramePermissions": []
+}
